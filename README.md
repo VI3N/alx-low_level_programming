@@ -1,1 +1,1 @@
-This repository contains solutions to C programming tasks
+These are solutions to functions,nested loops
